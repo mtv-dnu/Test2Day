@@ -1,1 +1,4 @@
 This is file2.txt
+
+line 1 main
+line 2 main
